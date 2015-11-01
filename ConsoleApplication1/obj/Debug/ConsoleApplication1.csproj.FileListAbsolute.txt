@@ -1,0 +1,8 @@
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\bin\Debug\MyCollections.dll
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\bin\Debug\MyCollections.pdb
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

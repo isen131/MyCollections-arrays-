@@ -1,0 +1,5 @@
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\MyCollections\bin\Debug\MyCollections.dll
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\MyCollections\bin\Debug\MyCollections.pdb
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\MyCollections\obj\Debug\MyCollections.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\MyCollections\obj\Debug\MyCollections.dll
+C:\Users\Женя\Desktop\Проекты VS\MyCollections\MyCollections\obj\Debug\MyCollections.pdb
